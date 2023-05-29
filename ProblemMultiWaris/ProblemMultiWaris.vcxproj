@@ -24,6 +24,7 @@
     <ProjectGuid>{63dac340-6538-4402-b73d-0b9e033a5b77}</ProjectGuid>
     <RootNamespace>ProblemMultiWaris</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>ParadigmaOOP2_186</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
